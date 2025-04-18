@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class Employee_Management_System {
 	
-	static String url="jdbc:mysql://localhost:3306/jdbcdemo";
+	static String url="";
 	static String user="root";
-	static String password="191105";
+	static String password="";
 	
 	static Connection con;
 	
